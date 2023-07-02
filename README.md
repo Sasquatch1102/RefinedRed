@@ -1,12 +1,12 @@
 # Refined Red Version.
-My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbed from discord and tutorials with a bit of my own creativity.  The goal was to be a more difficult version of the game, but not unbeatable.
+My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbed from discord and tutorials with a bit of my own creativity.  The goal was to be a more difficult version of the game, but not unbeatable, and to add features to help make the game feel fresh and new.
 
 # Additions
 	-Special/Physical Split
  	-Added Dark/Steel/Fairy with Current Gen type match ups
 	-Changed types of certain Pokemon (will list below)
 	-Swapped NidoranF evo line’s Special and Attack
-	-Updated Learnsets https://docs.google.com/spreadsheets/d/1CQCfz_EumxJm-55kkcB0h1NWoO-lUADn9aSYGqUQlqE/edit?usp=sharing
+	-Updated Learnsets: https://docs.google.com/spreadsheets/d/1CQCfz_EumxJm-55kkcB0h1NWoO-lUADn9aSYGqUQlqE/edit?usp=sharing
 	-Added around 30+ Moves with their original effects, aside from a couple (Listed Below)
 	-Balanced a few base game moves (listed below)
 	-Payday money is x10 user’s level instead of x2
