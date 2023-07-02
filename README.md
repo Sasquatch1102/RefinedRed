@@ -1,67 +1,68 @@
-# Pokered Flex.
+# Refined Red Version.
 My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbed from discord and tutorials with a bit of my own creativity.  The goal was to be a more difficult version of the game, but not unbeatable.
 
 # Additions
-	-Added Dark/Steel/Fairy with Current Gen type match ups
-	-Changed types of certain Pokemon (will list below)
-	-Swap Nidoran F evo line’s Special and Attack
-	-Updated Learnsets (Will update)
-	-Added around 30+ Moves with their original effects, aside from a couple (will list)
-	-Balanced a few base game moves (submission, Leech Life, etc... will also be listed)
-	-Payday money is x10 user’s level instead of x2
-	-Changed TMs to be reused
-	-Added move Relearner in pewter museum (Subject to change)
 	-Special/Physical Split
-	-Item Descriptions
+ 	-Added Dark/Steel/Fairy with Current Gen type match ups
+	-Changed types of certain Pokemon (will list below)
+	-Swapped NidoranF evo line’s Special and Attack
+	-Updated Learnsets https://docs.google.com/spreadsheets/d/1CQCfz_EumxJm-55kkcB0h1NWoO-lUADn9aSYGqUQlqE/edit?usp=sharing
+	-Added around 30+ Moves with their original effects, aside from a couple (Listed Below)
+	-Balanced a few base game moves (listed below)
+	-Payday money is x10 user’s level instead of x2
+	-Changed TMs to be reuseable
+	-Added move Relearner and move deleter in mimic house in saffron
 	-Attack the same turn you wake up
 	-Poison, Burn and leech seed deal 1/8th damage now
 	-Removed 25% chance for enemy stat down moves to miss
 	-Changed map to make certain routes and dungeons tougher
 	-Wild mons are stronger and more diverse
-	-Running Shoes Added
+	-Running Shoes Added (hold B)
 	-All Pokemon will be catchable (No version exclusives)
 	-Trade pokemon evolve at level 40 now
-	-Trainers, gym leaders and elite four are all harder and have more pokemon and more diverse teams
+	-Trainers, gym leaders and elite four are all tougher and have more pokemon and more diverse teams
 	-Shift mode disabled
 	-Disabled Revive/Max Revive in battle
 	-Level Cap Added
-	-Hold SELECT to refight trainers
 	-Pokemon party icons updaated
  	-EXP ALL Cheat can be enabled in Viridian School House (Exp for lead pokemon isn't halved)
 
 # BUGS
 	-Pokemon party icons only work until Pinsir, still trying to figure this out
+ 	-A couple of trainers have weird sprite glitches, mainly the two by the entrance of Seafoam Islands.
 	
 # Pokemon Type Changes
-	Charizard - fire/dragon
-	Wartortle/Blastoise - water/steel
-	Butterfree - bug/psychic
-	Rattata/Raticate - normal/dark
-	Spearow/Fearow - flying/dark
-	Ekans/Arbok - poison/dark
-	Sandshrew/Sandslash - ground/steel
-	Clefairy/Clefable - fairy
-	Vulpix/Ninetails - fire/ghost
-	Jigglypuff/Wigglytuff - normal/fairy
-	Venomoth - Psychic/Poison
-	Diglett/Dugtrio - ground/fighting
-	Psyduck/Golduck - water/psychic
-	Mankey/Primeape - fighting/fairy
-	Geodude/Graveler/Golem - rock only
-	Magnetite/Magneton - electric/steel
-	Farfetch’d - flying/fighting
-	Drowzee/Hypno - psychic/dark
-	Krabby/Kingler - water/steel
-	Voltorb/Electrode - electric/normal
-	Cubone/marowak -ground/ghost
-	Koffing/Weezing - poison/rock
-	Seadra-  water/dragon
-	Staryu/Starmie - water/electric
-	Mr. Mime - psychic/fairy
-	Scyther - bug/dragon
-	Electabuzz - electric/fighting
-	Magmar - fire/poison
-	Pinsir - bug/steel
+	-Charmeleon/Charizard - fire/dragon
+	-Wartortle/Blastoise - water/steel
+	-Butterfree - bug/psychic
+	-Rattata/Raticate - normal/dark
+	-Spearow/Fearow - flying/dark
+	-Ekans/Arbok - poison/dark
+	-Sandshrew/Sandslash - ground/steel
+	-Clefairy/Clefable - fairy
+	-Vulpix/Ninetails - fire/ghost
+	-Jigglypuff/Wigglytuff - normal/fairy
+	-Venomoth - Psychic/Poison
+	-Diglett/Dugtrio - ground/fighting
+	-Psyduck/Golduck - water/psychic
+	-Mankey/Primeape - fighting/fairy
+	-Geodude/Graveler/Golem - rock only
+	-Magnetite/Magneton - electric/steel
+	-Farfetch’d - flying/fighting
+ 	-Onix - Rock/Dragon
+	-Drowzee/Hypno - psychic/dark
+	-Krabby/Kingler - water/steel
+	-Voltorb/Electrode - electric/normal
+	-Cubone/marowak -ground/ghost
+	-Koffing/Weezing - poison/rock
+	-Horsea/Seadra-  water/dragon
+	-Staryu/Starmie - water/electric
+	-Mr. Mime - psychic/fairy
+	-Scyther - bug/dragon
+	-Electabuzz - electric/fighting
+	-Magmar - fire/poison
+	-Pinsir - bug/steel
+ 	-Porygon - Normal/Electric
 
 # Moves Added, Name / Type / Effect / Damage / Accuracy /  PP 
 	-Metal Claw, steel, no effect, 50, 95, 35
@@ -140,6 +141,8 @@ My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbe
 	-Softboiled 5pp
 	-Leech Life 60bp
 	-Sky Attack, one turn recoil move
+ 	-Spike Cannon Steel Type
+  	-Rest, Calm Mind, Mist, Hypnosis, Meditate, Amnesia, Agility, Double Team, Teleport, Recover, Barrier, Light Screen, Haze, Reflect, Kinesis, Roost, all changed to Normal Type, to avoid trainer AI shenanigans
 	
 # Credits
 	-PRET
