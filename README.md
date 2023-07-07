@@ -6,7 +6,7 @@ My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbe
  	-Added Dark/Steel/Fairy with Current Gen type match ups
 	-Changed types of certain Pokemon (will list below)
 	-Swapped NidoranF evo line’s Special and Attack
-	-Updated Learnsets: [Link Here](https://docs.google.com/spreadsheets/d/1CQCfz_EumxJm-55kkcB0h1NWoO-lUADn9aSYGqUQlqE/edit?usp=sharing).
+ 	-Updated Learnsets, down below
 	-Added around 30+ Moves with their original effects, aside from a couple (Listed Below)
 	-Balanced a few base game moves (listed below)
 	-Payday money is x10 user’s level instead of x2
@@ -27,6 +27,7 @@ My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbe
 	-Pokemon party icons updaated
  	-EXP ALL Cheat can be enabled in Viridian School House (Exp for lead pokemon isn't halved)
   	-Fixed Focus Energy
+## Updated Learnsets: [Link Here](https://docs.google.com/spreadsheets/d/1CQCfz_EumxJm-55kkcB0h1NWoO-lUADn9aSYGqUQlqE/edit?usp=sharing)
 
 # BUGS
 	-Pokemon party icons only work until Pinsir, still trying to figure this out
