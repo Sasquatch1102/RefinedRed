@@ -26,6 +26,7 @@ My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbe
 	-Level Cap Added
 	-Pokemon party icons updaated
  	-EXP ALL Cheat can be enabled in Viridian School House (Exp for lead pokemon isn't halved)
+  	-Fixed Focus Energy
 
 # BUGS
 	-Pokemon party icons only work until Pinsir, still trying to figure this out
