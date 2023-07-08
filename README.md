@@ -25,6 +25,7 @@ My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbe
 	-Disabled Revive/Max Revive in battle
 	-Level Cap Added
 	-Pokemon party icons updaated
+ 	-Removed Stat Experience
  	-EXP ALL Cheat can be enabled in Viridian School House (Exp for lead pokemon isn't halved)
   	-Fixed Focus Energy
 ## Updated Learnsets: [Link Here](https://docs.google.com/spreadsheets/d/1CQCfz_EumxJm-55kkcB0h1NWoO-lUADn9aSYGqUQlqE/edit?usp=sharing)
