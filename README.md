@@ -28,7 +28,7 @@ My own Pokemon Red version mod, its a bit of an amalgamation of code i've grabbe
  	-Removed Stat Experience
  	-EXP ALL Cheat can be enabled in Viridian School House (Exp for lead pokemon isn't halved)
   	-Fixed Focus Energy
-   	-(New 7.24.23) Added a New Item "Poke Healer" that is a personal Pokemon Center.  It is disabled at certain areas that are to be treated as gauntlets, list below
+   	-(New 7.24.23) Added a New Item "Poke Healer" that is a personal Pokemon Center.  It is disabled at certain areas that are to be treated as gauntlets, list below;
     		-Cerulean CIty (Rival Fight), Route 8, Route 9, Route 14, Route 15, Route 16, Route 24, Route 25, Viridian Gym, Elite Four.
       	-(New 7.24.23) Added a PC in the player's start menu that can be used on the go, it functions as a normal PC.
 ## Updated Learnsets: [Link Here](https://docs.google.com/spreadsheets/d/1CQCfz_EumxJm-55kkcB0h1NWoO-lUADn9aSYGqUQlqE/edit?usp=sharing)
